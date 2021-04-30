@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 🧰 Toolbox
-<img src='https://cdn.worldvectorlogo.com/logos/logo-javascript.svg'> </img>
+<img width="50" height="50" src='https://cdn.worldvectorlogo.com/logos/logo-javascript.svg'> </img>
 
 ### I'm Lautaro, welcome to my GitHub
  Passionate about music and technology.
