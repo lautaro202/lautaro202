@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-🧰 Toolbox
-<img width="50" height="50" src='https://cdn.worldvectorlogo.com/logos/logo-javascript.svg'> </img>
+
 
 ### I'm Lautaro, welcome to my GitHub
  Passionate about music and technology.
@@ -28,21 +27,22 @@ training me.
    I am responsible, creative and I like the challenge of constantly improving myself all the time.
    I like being a Front End developer, because it is my job to make the cover letter of a page, it is the first impression you get, which I can be able to offer you with just a glance. I would like to give all users a good impression on every job I do
   
-### - 🌱 What are my skills?
-In 2020 I started the Full Stack Web Developer Bootcamp at Henry. With + 600HS I learned the following technologies in depth: 
-- GIT 
-- HTML5 
-- CSS3 (Flexbox / Bootstrap / Less) 
-- JavaScript (ES6) 
-- React (Class / Hooks) 
-- Redux
- - NodeJS 
-- Express 
-- Sequelize 
-- PostgreSQL 
-- Testing 
-- AXIOS 
-- Agile SCRUM Methodologies
+### - 🌱 🧰 Toolbox
+
+<img width="50" height="50" src='https://cdn.worldvectorlogo.com/logos/logo-javascript.svg'> </img>
+<img width="50" height="50" src='https://cdn.worldvectorlogo.com/logos/react-2.svg'> </img>
+<img width="50" height="50" src='https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg'> </img>
+<img width="50" height="50" src='https://cdn.worldvectorlogo.com/logos/postgresql.svg'> </img>
+<img width="50" height="50" src='https://cdn.worldvectorlogo.com/logos/sequelize.svg'> </img>
+<img width="50" height="50" src='https://cdn.worldvectorlogo.com/logos/css-5.svg'> </img>
+<img width="50" height="50" src='https://cdn.worldvectorlogo.com/logos/html5.svg'> </img>
+<img width="50" height="50" src='https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg'> </img>
+<img width="50" height="50" src='https://cdn.worldvectorlogo.com/logos/material-ui-1.svg'> </img>
+<img width="50" height="50" src='https://cdn.worldvectorlogo.com/logos/express-109.svg'> </img>
+<img width="50" height="50" src='https://cdn.worldvectorlogo.com/logos/redux.svg'> </img>
+<img width="50" height="50" src='https://cdn.worldvectorlogo.com/logos/github-icon.svg'> </img>
+
+
 
 ### - 👯 I’m looking to collaborate on ...
 Front End projects, i love them. I like being a Front End developer, because it is my job to make the cover letter of a page, it is the first impression you get, which I can be able to offer you with just a glance. I would like to give all users a good impression on every job I do
