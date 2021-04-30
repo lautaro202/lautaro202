@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+🧰 Toolbox
+<img src='https://cdn.worldvectorlogo.com/logos/logo-javascript.svg'> </img>
+
 ### I'm Lautaro, welcome to my GitHub
  Passionate about music and technology.
 
